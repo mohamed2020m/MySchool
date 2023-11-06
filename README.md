@@ -1,18 +1,18 @@
 # Table of Content
 
-- [School Web App](#School Web App)
+- [School Web App](#school-web-app--)
   - [Description](#Description)
   - [Built With](#Built-with)
-  - [Web Demo](#demo)
+  - [Web Demo](#web-demo)
   - [Installation](#installation)
   - [Usage](#usage)
-- [School Mobile App](#mobile)
-  - [Description](#description_mobile)
-  - [Mobile Demo](#demo_mobile)
+- [School Mobile App](#school-mobile-app)
+  - [Description](#description-1)
+  - [Mobile Demo](#mobile-demo)
 - [School Backend](#backend)
   - [Swagger Doc](#swagger)
   - [DB](#db)
-- [Links to the projects](#links)
+- [Links to the projects](#links-to-the-projects)
 - [Contact](#contact)
 
 
