@@ -6,7 +6,7 @@
   - [Web Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
--[School Mobile App](#mobile)
+- [School Mobile App](#mobile)
   - [Description](#description_mobile)
   - [Mobile Demo](#demo_mobile)
 - [School Backend](#backend)
