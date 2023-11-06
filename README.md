@@ -1,11 +1,8 @@
-# My School
+# Table of Content
 
-## Table of Content
-
-- [About The Project](#about-the-project)
+- [School Web Ap](#webApp)
   - [Description](#description)
   - [Built With](#built-with)
-- [School Web Ap](#webApp)
   - [Web Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
