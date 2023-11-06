@@ -1,8 +1,8 @@
 # Table of Content
 
-- [School Web App](#webApp)
-  - [Description](#description)
-  - [Built With](#built-with)
+- [School Web App](#School Web App)
+  - [Description](#Description)
+  - [Built With](#Built-with)
   - [Web Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
